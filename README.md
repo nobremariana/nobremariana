@@ -17,8 +17,11 @@
 
 ## 📈 Estatísticas  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical)   
+### 📊 Linguagens mais utilizadas  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobremariana&layout=compact&theme=radical)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nobremariana&show_icons=true&theme=radical)   
 
 ---
 
